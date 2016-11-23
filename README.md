@@ -1,0 +1,2 @@
+# dynote
+Jurandy's notes
