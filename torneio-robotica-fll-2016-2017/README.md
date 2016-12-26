@@ -74,3 +74,17 @@ comece o projeto. Queremos conhecer o seu robô.
 * E-mail: <torneiofllbrasil@sesi.org.br>
 * Facebook: __F__[/torneiofllbrasil](https://facebook.com/torneiofllbrasil)
 * Instagram: [@TorneioDeRoboticaFLL](https://www.instagram.com/TorneioDeRoboticaFLL/)
+
+__CORREALIZAÇÃO INTERNACIONAL:__
+---
+![LEGO education][lego-education]
+---
+![LEGO First][lego-first]
+
+__REALIZAÇÃO:__
+---
+![SESI][sesi]
+
+[lego-education]: https://mi-od-live-s.legocdn.com/r/www/r/careers/-/media/careers/images/logo/legoeducationlogo.png?l.r2=553377664
+[lego-first]: http://www.firstinspires.org/sites/default/files/uploads/resource_library/brand/FIRST_Vertical_RGB.jpg
+[sesi]: https://logodownload.org/wp-content/uploads/2016/10/sesi-logo-14.png
