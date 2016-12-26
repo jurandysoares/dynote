@@ -69,3 +69,8 @@ experiências e descobertas com os colegas.
 ## Reúna seus amigos!
 Lance o desafio para a galera, monte sua equipe e
 comece o projeto. Queremos conhecer o seu robô.
+
+* Site: [www.sesi.org.br/robotica](https://www.sesi.org.br/robotica)
+* E-mail: <torneiofllbrasil@sesi.org.br>
+* Facebook: __F__[/torneiofllbrasil](https://facebook.com/torneiofllbrasil)
+* Instagram: [@TorneioDeRoboticaFLL](https://www.instagram.com/TorneioDeRoboticaFLL/)
