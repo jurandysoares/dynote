@@ -17,5 +17,5 @@ What we know about the past ... __and how we know it.__
 * Change over time
 * Corroboration
 
-
+To learn more, see [Read Like a Historian](http://sheg.stanford.edu/rlh).
 
