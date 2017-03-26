@@ -8,10 +8,7 @@
 | 17/03 |  |
 | 24/03 |  |
 | 31/03 |  |
-| 07/04 | 12. A lei da religião
-
-13. Os segredos do sucesso
-|
+| 07/04 | 12. A lei da religião; 13. Os segredos do sucesso |
 | 14/04 | Feriado -- Sexta-feira santa |
 | 21/04 | Feriado -- Tiradentes |
 | 28/04 | 14. A descoberta da ignorância |
