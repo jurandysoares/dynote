@@ -28,3 +28,8 @@ Cronograma de leitura do livro [Sapiens -- Uma breve história da humanidade](ht
 <a name="cheiro-do-dinheiro">
 
 ## 10. O cheiro do dinheiro
+  
+Questões que merecem reflexões:
+
+  1. O dinheiro eletrônico (Ex.: (Bitcoin)[https://www.bitcoin.com/]);
+  2. O sistema de patentes (Ex.: Os frutos de um grão geneticamente modificado pertencem a quem os plantou? Em outras palavras, um grão geneticamente modificado é uma moeda).
