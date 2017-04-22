@@ -1,7 +1,7 @@
 # Reforma trabalhista
 
 ## Entrevista de Rogério Marinho
-O deputado federal Rogório Marinho, do PSDB do Rio Grande do Norte, é o relator da proposta de reforma trabalhista. 
+O deputado federal Rogério Marinho, do PSDB do Rio Grande do Norte, é o relator da proposta de reforma trabalhista. 
 Recentemente ele deu uma [entrevista ao programa Roda Vida, da TV Cultura](https://www.youtube.com/watch?v=eSE9wTnDJjA).
 
 Listo brevemente alguns pontos que foram debatidos ou documentos que foram citados:
