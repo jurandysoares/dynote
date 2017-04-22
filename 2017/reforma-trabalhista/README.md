@@ -17,11 +17,11 @@ Listo brevemente alguns pontos que foram debatidos ou documentos que foram citad
     * [Transformations du travail et devenir du droit du travail en Europe](https://bookshop.europa.eu/fr/transformations-du-travail-et-devenir-du-droit-du-travail-en-europe-pbCE1998302/)    
     * 
     * [O Direito do Trabalho no Brasil – 1930/1942: A construção do sujeito de direitos trabalhistas](http://www.bibliotecadigital.unicamp.br/document/?code=vtls000385083)
-* Do deputado: A influência da [Carta de Lavoro](#carta-de-lavoro) na CLT
+* Do deputado: A influência da [Carta de Lavoro](#carta-del-lavoro) na CLT
     * Uns acham que houve: [A influência da Carta del lavoro na CLT: O fascismo na CLT](https://alexandrechavesadv.jusbrasil.com.br/artigos/313510871/a-influencia-da-carta-del-lavoro-na-clt)
     * Outros acham que não, que houve mais influência do Direito Social Católico e das normas da OIT: [Carta del Lavoro e encíclica católica estão entre as influências da CLT](http://glo.bo/2dBf86p)
 
-## Carta de Lavoro
+## Carta del Lavoro
 CARTA DE LAVORO
 
 1. A Nação italiana é um organismo com fins, vida, meios e ações superiores por potência e extensa aqueles indivíduos separados ou reagrupados que a compõem. É uma unidade moral, política e econômica, que se realiza integralmente no Estado fascista.
@@ -40,7 +40,7 @@ CARTA DE LAVORO
 
 8. O Estado corporativo considera a iniciativa no campo da produção como o instrumento mais eficaz útil no interesse da nação. A organização privada da produção, sendo uma função de interesse nacional, o organizador do empreendimento é responsável pelo endereço da produção face do Estado. Da colaboração das forças produtivas deriva a reciprocidade de direitos e deveres. O prestador de serviços, técnico, empregado ou operários é um colaborador ativo do empreendimento econômico, no sentido do qual cabe ao empregador a responsabilidade pelos mesmos.
 
-9. As ações dos sindicatos, o serviço conciliativo dos órgãos corporativos e as sentenças da magistraturas do trabalho garantem a correspondências do salário ante as exigências normais de vida, às possibilidades da produção e ao rendimento do trabalho. A determinação do salário é subtraída a qualquer norma geral e confiada ao acordo das partes nos contratos coletivos.[1](#rodape1)
+9. As ações dos sindicatos, o serviço conciliativo dos órgãos corporativos e as sentenças da magistraturas do trabalho garantem a correspondências do salário ante as exigências normais de vida, às possibilidades da produção e ao rendimento do trabalho. A determinação do salário é subtraída a qualquer norma geral e confiada ao acordo das partes nos contratos coletivos.[<SUP>1<SUP>](#rodape1)
 
 10. As consequências das crises de produção e dos fenômenos monetários devem igualmente repartir-se entre todos os fatores da produção. Os dados relevantes acerca das condições da produção e do trabalho e a situação do mercado monetário, e as variações do nível de vida dos prestadores de serviço, coordenados e elaborados pelo Ministério das Corporações, darão o critério para conformar os interesses das várias categorias, das classes entre elas, e destes co-interesses superiores da produção.
 
@@ -52,7 +52,7 @@ CARTA DE LAVORO
 
 14. O Estado verifica e controla o fenômeno da ocupação e da desocupação dos trabalhadores, índice complessivo das condições da produção e do trabalho.
 
-15. Os escritórios[2](#rodape2) de colocação são constituídos de forma paritária, sob o controle dos órgãos corporativos do Estado. Os empregadores têm a obrigação de assumir os prestadores de serviço pelo funcionamento do mencionado escritório. A esses é concedida a faculdade de escolha no âmbito dos inscritos no elenco, com preferência àqueles que pertençam ao Partido e aos Sindicatos fascistas, segundo a antiguidade de inscrição.
+15. Os escritórios[<SUP>2<SUP>](#rodape2) de colocação são constituídos de forma paritária, sob o controle dos órgãos corporativos do Estado. Os empregadores têm a obrigação de assumir os prestadores de serviço pelo funcionamento do mencionado escritório. A esses é concedida a faculdade de escolha no âmbito dos inscritos no elenco, com preferência àqueles que pertençam ao Partido e aos Sindicatos fascistas, segundo a antiguidade de inscrição.
 
 16. As associações profissionais de trabalhadores têm a obrigação de exercitar uma ação seletiva entre os trabalhadores, com o objetivo de elevar-lhes sempre mais a capacidade técnica e o valor moral.
 
@@ -66,7 +66,7 @@ CARTA DE LAVORO
     * ao seguro das doenças profissionais e das tuberculoses, assim como ao início do seguro geral contra todas as doenças;
     * o aperfeiçoamento do seguro contra a desocupação involuntária;
     * a adoção de formas especiais de seguros para os jovens trabalhadores
-    * A educação e instrução, especialmente a instrução profissional, dos representantes, sócios e não sócios, é um dos principais deveres das associações profissionais. Estes devem sustentar ações das obras nacionais relativa ao Dopolavoro[3](#rodape3) e outras iniciativas de educação.
+    * A educação e instrução, especialmente a instrução profissional, dos representantes, sócios e não sócios, é um dos principais deveres das associações profissionais. Estes devem sustentar ações das obras nacionais relativa ao Dopolavoro[<SUP>3<SUP>](#rodape3) e outras iniciativas de educação.
 
 <a name="rodape1"> 
 
