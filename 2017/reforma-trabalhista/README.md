@@ -17,9 +17,12 @@ Listo brevemente alguns pontos que foram debatidos ou documentos que foram citad
     * [Transformations du travail et devenir du droit du travail en Europe](https://bookshop.europa.eu/fr/transformations-du-travail-et-devenir-du-droit-du-travail-en-europe-pbCE1998302/)    
     * 
     * [O Direito do Trabalho no Brasil – 1930/1942: A construção do sujeito de direitos trabalhistas](http://www.bibliotecadigital.unicamp.br/document/?code=vtls000385083)
-    
+* Do deputado: A influência da [Carta de Lavoro](#carta-de-lavoro) na CLT
+    * Uns acham que houve: [A influência da Carta del lavoro na CLT: O fascismo na CLT](https://alexandrechavesadv.jusbrasil.com.br/artigos/313510871/a-influencia-da-carta-del-lavoro-na-clt)
+    * Outros acham que não, que houve mais influência do Direito Social Católico e das normas da OIT: [Carta del Lavoro e encíclica católica estão entre as influências da CLT](http://glo.bo/2dBf86p)
+
 ## Carta de Lavoro
-CARTA DEL LAVORO
+CARTA DE LAVORO
 
 1. A Nação italiana é um organismo com fins, vida, meios e ações superiores por potência e extensa aqueles indivíduos separados ou reagrupados que a compõem. É uma unidade moral, política e econômica, que se realiza integralmente no Estado fascista.
 
@@ -65,8 +68,14 @@ CARTA DEL LAVORO
     * a adoção de formas especiais de seguros para os jovens trabalhadores
     * A educação e instrução, especialmente a instrução profissional, dos representantes, sócios e não sócios, é um dos principais deveres das associações profissionais. Estes devem sustentar ações das obras nacionais relativa ao Dopolavoro[3](#rodape3) e outras iniciativas de educação.
 
-<a name="rodape1"> [1] Talvez a melhor forma de de dizê-lo na língua portuguesa, em razão da técnica de redação legistativa seria: "A estipulação de salários é vedada a qualquer norma legal e atribuição das partes nos encontros coletivos
+<a name="rodape1"> 
 
-<a name="rodape2"> [2]: Agências
+<SUP>1</SUP> Talvez a melhor forma de de dizê-lo na língua portuguesa, em razão da técnica de redação legistativa seria: "A estipulação de salários é vedada a qualquer norma legal e atribuição das partes nos encontros coletivos
 
-<a name="rodape3"> [3]: Dopolavoro pode ser traduzido como " Pós-trabalho Segundo o Dicionário Zingarelli, dopolavoro significa: "Ente que organiza as atividades recreativas e culturais dos trabalhadores
+<a name="rodape2"> 
+
+<SUP>2</SUP> Agências
+
+<a name="rodape3"> 
+
+<SUP>3</SUP> Dopolavoro pode ser traduzido como " Pós-trabalho Segundo o Dicionário Zingarelli, dopolavoro significa: "Ente que organiza as atividades recreativas e culturais dos trabalhadores
