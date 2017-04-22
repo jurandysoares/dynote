@@ -14,10 +14,9 @@ Listo brevemente alguns pontos que foram debatidos ou documentos que foram citad
         * [O discurso da cidadania em Marshall: a influência do modelo clássico na teoria jurídica moderna](http://jurisvox.unipam.edu.br/documents/48188/50566/O-discurso-da-cidadania-em-Marshall.pdf)
 * De outro entrevistador: Soupiot, "além do emprego"
     * Que obra é essa? [Alain Supiot (sous la dir. de), Au-delà de l'emploi. Transformations du travail et devenir du droit du travail en Europe](http://www.persee.fr/doc/tiers_1293-8882_2002_num_43_171_1639_t1_0710_0000_2)
-    * [Transformations du travail et devenir du droit du travail en Europe](https://bookshop.europa.eu/fr/transformations-du-travail-et-devenir-du-droit-du-travail-en-europe-pbCE1998302/)    
-    * 
+    * [Transformations du travail et devenir du droit du travail en Europe](https://bookshop.europa.eu/fr/transformations-du-travail-et-devenir-du-droit-du-travail-en-europe-pbCE1998302/)
     * [O Direito do Trabalho no Brasil – 1930/1942: A construção do sujeito de direitos trabalhistas](http://www.bibliotecadigital.unicamp.br/document/?code=vtls000385083)
-* Do deputado: A influência da [Carta de Lavoro](#carta-del-lavoro) na CLT
+* Do entrevistado: A influência da [Carta del Lavoro](#carta-del-lavoro) na CLT
     * Uns acham que houve: [A influência da Carta del lavoro na CLT: O fascismo na CLT](https://alexandrechavesadv.jusbrasil.com.br/artigos/313510871/a-influencia-da-carta-del-lavoro-na-clt)
     * Outros acham que não, que houve mais influência do Direito Social Católico e das normas da OIT: [Carta del Lavoro e encíclica católica estão entre as influências da CLT](http://glo.bo/2dBf86p)
 
