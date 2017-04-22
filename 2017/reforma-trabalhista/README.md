@@ -21,6 +21,11 @@ Listo brevemente alguns pontos que foram debatidos ou documentos que foram citad
     * Uns acham que houve: [A influência da Carta del lavoro na CLT: O fascismo na CLT](https://alexandrechavesadv.jusbrasil.com.br/artigos/313510871/a-influencia-da-carta-del-lavoro-na-clt)
     * Outros acham que não, que houve mais influência do Direito Social Católico e das normas da OIT: [Carta del Lavoro e encíclica católica estão entre as influências da CLT](http://glo.bo/2dBf86p)
 
+* [Trabalho intermitente](https://rebellyon.info/Qu-est-ce-que-le-travail) foi um tema também debatido. Este tipo de trabalho é aquele como o do garçom e o da diarista. 
+Em minha humilde opinião, é a [uberização da economia](https://www.google.com.br/search?ie=UTF-8&q=uberização%20da%20economia). Deverão surgir [agências de intermitentes](https://interim.ooreka.fr/qr/voir/117124/qu-est-ce-qu-une-agence-d-interim) como acontece na França.
+      * [Contrat en interim : définition - Ooreka](http://interim.ooreka.fr/comprendre/contrat-en-interim)
+      * [CTT -- Contrat de Travail Temporaire](https://fr.wikipedia.org/wiki/Contrat_de_travail_temporaire)
+
 ## Carta del Lavoro
 CARTA DE LAVORO
 
