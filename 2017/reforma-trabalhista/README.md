@@ -65,11 +65,8 @@ CARTA DEL LAVORO
     * a adoção de formas especiais de seguros para os jovens trabalhadores
     * A educação e instrução, especialmente a instrução profissional, dos representantes, sócios e não sócios, é um dos principais deveres das associações profissionais. Estes devem sustentar ações das obras nacionais relativa ao Dopolavoro[3](#rodape3) e outras iniciativas de educação.
 
-<a name="rodape1">
-[1] Talvez a melhor forma de de dizê-lo na língua portuguesa, em razão da técnica de redação legistativa seria: "A estipulação de salários é vedada a qualquer norma legal e atribuição das partes nos encontros coletivos
+<a name="rodape1"> [1] Talvez a melhor forma de de dizê-lo na língua portuguesa, em razão da técnica de redação legistativa seria: "A estipulação de salários é vedada a qualquer norma legal e atribuição das partes nos encontros coletivos
 
-<a name="rodape2">
-[2]: Agências
+<a name="rodape2"> [2]: Agências
 
-<a name="rodape3">
-[3]: Dopolavoro pode ser traduzido como " Pós-trabalho Segundo o Dicionário Zingarelli, dopolavoro significa: "Ente que organiza as atividades recreativas e culturais dos trabalhadores
+<a name="rodape3"> [3]: Dopolavoro pode ser traduzido como " Pós-trabalho Segundo o Dicionário Zingarelli, dopolavoro significa: "Ente que organiza as atividades recreativas e culturais dos trabalhadores
