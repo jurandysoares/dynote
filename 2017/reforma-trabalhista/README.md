@@ -19,11 +19,11 @@ Listo brevemente alguns pontos que foram debatidos ou documentos que foram citad
 * Do entrevistado: A influência da [Carta del Lavoro](#carta-del-lavoro) na CLT
     * Uns acham que houve: [A influência da Carta del lavoro na CLT: O fascismo na CLT](https://alexandrechavesadv.jusbrasil.com.br/artigos/313510871/a-influencia-da-carta-del-lavoro-na-clt)
     * Outros acham que não, que houve mais influência do Direito Social Católico e das normas da OIT: [Carta del Lavoro e encíclica católica estão entre as influências da CLT](http://glo.bo/2dBf86p)
-
-* [Trabalho intermitente](https://rebellyon.info/Qu-est-ce-que-le-travail) foi um tema também debatido. Este tipo de trabalho é aquele como o do garçom e o da diarista. 
-Em minha humilde opinião, é a [uberização da economia](https://www.google.com.br/search?ie=UTF-8&q=uberização%20da%20economia). Deverão surgir [agências de intermitentes](https://interim.ooreka.fr/qr/voir/117124/qu-est-ce-qu-une-agence-d-interim) como acontece na França.
-      * [Contrat en interim : définition - Ooreka](http://interim.ooreka.fr/comprendre/contrat-en-interim)
-      * [CTT -- Contrat de Travail Temporaire](https://fr.wikipedia.org/wiki/Contrat_de_travail_temporaire)
+* [Trabalho intermitente](https://rebellyon.info/Qu-est-ce-que-le-travail) foi um tema também debatido. Este tipo de trabalho é aquele como o do garçom e o da diarista. Em minha humilde opinião, isso vai levar à [uberização da economia](https://www.google.com.br/search?ie=UTF-8&q=uberização%20da%20economia). Deverão surgir [agências de intermitentes](https://interim.ooreka.fr/qr/voir/117124/qu-est-ce-qu-une-agence-d-interim) como acontece na França. 
+    * [Contrat en interim : définition - Ooreka](http://interim.ooreka.fr/comprendre/contrat-en-interim)
+    * [CTT -- Contrat de Travail Temporaire](https://fr.wikipedia.org/wiki/Contrat_de_travail_temporaire)
+    * ['Uberização' da economia avança sobre a roça – e adjacências](http://epocanegocios.globo.com/Tecnologia/noticia/2017/03/uberizacao-da-economia-avanca-sobre-roca-e-adjacencias.html)
+    * [‘Uberização’ já é realidade irreversível para a economia](http://www.otempo.com.br/capa/economia/uberiza%C3%A7%C3%A3o-j%C3%A1-%C3%A9-realidade-irrevers%C3%ADvel-para-a-economia-1.1355179)
 
 ## Carta del Lavoro
 CARTA DE LAVORO
